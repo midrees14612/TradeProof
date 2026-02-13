@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113601893373",
+    "project_id": "tradeproof-59cd6",
+    "storage_bucket": "tradeproof-59cd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113601893373:android:c7a38eb7ad4ab12ac33f94",
+        "android_client_info": {
+          "package_name": "com.example.trade_proof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyVCMucV2UqcYPC3NaNwrCQaebwfbNXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
