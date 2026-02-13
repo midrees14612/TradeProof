@@ -104,20 +104,4 @@ Project supports **Role-Based Access Control (RBAC)**:
 * **ADMIN:** Access to Command Center, Block/Unblock users, Delete accounts, View user trades.
 * **USER:** Access to Terminal, Market, and Personal Journal.
 
-## 🤝 Contribution
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-
-
-```
-
----
-
-### 💡 README ko mazeed "Pro" kaise banayein?
-1.  **Screenshots:** Apni app ke 2-3 screenshots le kar `assets/screenshots/` folder mein dalo aur README mein unka path update karo.
-2.  **License:** Aik `LICENSE` file add karo (MIT License best hai open source ke liye).
-
-Bhai, ye file GitHub par push karne ke baad aapka project bilkul professional lagega. Kya hum ab **"Automatic Risk Calculator"** module par kaam karein jo trade enter karne se pehle bataye ke kitna lot size use karna hai? Would you like me to help you create the Python script for the MT5 connection?
-
-```
